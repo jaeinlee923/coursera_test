@@ -21,6 +21,11 @@
   color: #150404;
 }
 
+@media screen and (min-width:641px) {
+.external {
+    display: none !important;
+}
+}
 
 /* END HEADER */
 
